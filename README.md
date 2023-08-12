@@ -11,6 +11,8 @@ This is a Practical **js** project for practicing **JavaScript**.
 
 - Js Array
 - Algorithms
+  - Math Algorithms & Recursion
+  - Search Algorithms
 
 ## Installation
 
