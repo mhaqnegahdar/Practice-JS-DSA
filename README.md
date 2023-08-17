@@ -13,6 +13,16 @@ This is a Practical **js** project for practicing **JavaScript**.
 - Algorithms
   - Math Algorithms & Recursion
   - Search Algorithms (binary, linear, recursive)
+- Data Structures
+  - Built-in
+  - Custom
+    - Stacks
+    - Queues
+    - Circular Queues
+    - Linked Lists
+    - Hash tables
+    - Trees
+    - Graphs
 
 ## Installation
 
@@ -21,7 +31,7 @@ This is a Practical **js** project for practicing **JavaScript**.
 ```shell
 npm install
 
-node {filename}
+node {filepath}
 ```
 
 ## Screenshots
