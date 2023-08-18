@@ -15,6 +15,10 @@ This is a Practical **js** project for practicing **JavaScript**.
   - Search Algorithms (binary, linear, recursive)
 - Data Structures
   - Built-in
+    - Map
+    - Sets
+    - Array
+    - Object
   - Custom
     - Stacks
     - Queues
