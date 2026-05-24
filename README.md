@@ -27,6 +27,9 @@ This is a Practical **js** project for practicing **JavaScript**.
     - Hash tables
     - Trees
     - Graphs
+- JavaScript Methods
+  - Strings
+
 
 ## Installation
 
